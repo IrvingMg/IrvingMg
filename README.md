@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**IrvingMg/IrvingMg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Irving Mondragón* and I'm from Mexico. I am a Computer Engineer who
+is passionate about designing and building new products, applying cutting-edge
+technologies, for solving real-world problems.
+Constantly searching for side projects to participate in which enable me to
+learn new tech skills.
 
-Here are some ideas to get you started:
+If you'd like to know more about my work, take a look to my website:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal Website [irvingmg.com](https://irvingmg.com)
+
+#### How to get in touch?
+
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/irvingmg).
+- If you prefer emails, you can email me at [irving@irvingmg.com](mailto:irving@irvingmg.com).
