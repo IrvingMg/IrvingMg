@@ -1,14 +1,10 @@
-### Hi there! 👋
+# Hi there! 👋
 
-My name is *Irving Mondragón* and I'm from Mexico. I am a Computer Engineer who is passionate about designing and
-building new products, applying cutting-edge technologies, for solving real-world problems.
-Constantly searching for side projects to participate in which enable me to learn new tech skills.
+Welcome to my Github profile! I'm Irving Mondragón, a Software Engineer with experience in backend development and cloud computing. My primary programming language is Go, and I'm passionate about continuously learning new technologies.
 
-If you'd like to know more about my work, take a look at my website:
+## Get in Touch
 
-- [irvingmg.com](https://irvingmg.com)
-
-#### How to get in touch?
-
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/irvingmg) and/or [Twitter](https://twitter.com/IrvingMg_).
-- If you prefer emails, you can email me at [me@irvingmg.com](mailto:me@irvingmg.com).
+- 🌐 Explore more about my work on my website at [irvingmg.com](https://irvingmg.com).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/irvingmg) for updates.
+- 🐦 Follow me on [Twitter](https://twitter.com/IrvingMg_) for tech insights.
+- 📧 Email me at [me@irvingmg.com](mailto:me@irvingmg.com) for inquiries or collaborations.
