@@ -4,7 +4,7 @@ Welcome to my Github profile! I'm Irving Mondragón, a Software Engineer with ex
 
 ## Get in Touch
 
-- 🌐 Explore more about my work on my website at [irvingmg.com](https://irvingmg.com).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/irvingmg) for updates.
-- 🐦 Follow me on [Twitter](https://twitter.com/IrvingMg_) for tech insights.
-- 📧 Email me at [me@irvingmg.com](mailto:me@irvingmg.com) for inquiries or collaborations.
+- 🌐 Explore more about my work: [irvingmg.com](https://irvingmg.com)
+- 💼 Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/irvingmg)
+- 🐦 Follow on Twitter: [Twitter](https://twitter.com/IrvingMg_)
+- 📧 Email for inquiries: [me@irvingmg.com](mailto:me@irvingmg.com)
