@@ -6,5 +6,4 @@ Welcome to my Github profile! I'm Irving Mondragón, a Software Engineer with ex
 
 - 🌐 Explore more about my work: [irvingmg.com](https://irvingmg.com)
 - 💼 Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/irvingmg)
-- 🐦 Follow on Twitter: [Twitter](https://twitter.com/IrvingMg_)
 - 📧 Email for inquiries: [me@irvingmg.com](mailto:me@irvingmg.com)
